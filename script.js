@@ -119,7 +119,7 @@ articles.forEach(article => {
   main.append(articleElement);
 })
 
-
+// document.location.assign("")
 
 
 
